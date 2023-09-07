@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=aaqidmasoodi&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on HarudHub, a social network.<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with learning Systems Programming <br>🌱 I’m currently learning Rust-Lang<br>💬 Ask me about Python<br>⚡ Fun fact, I work on my computer all day without getting tired.
 
@@ -25,7 +26,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aaqidmasoodi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 Contribute & Donate
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aaqidmasoodi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aaqidmasoodi) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aaqidmasoodi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aaqidmasoodi) 
